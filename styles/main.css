@@ -1,0 +1,62 @@
+body{
+    font-family: sans-serif;
+    
+}
+
+img{
+
+    float:left;
+    margin-right:25px ;
+    margin-bottom:25px;
+    
+    margin-top: 20px;
+
+
+}
+h1{
+    color: orange;
+    text-shadow: 2px 2px 4px black;
+    font-size: 260%;
+    font-style: italic;
+    
+}
+footer{
+    text-align: center;
+    font-size: small; 
+    margin-top: 40px;  
+}
+.head1::first-letter{
+    font-size: 200%;
+
+
+}
+.head1{
+    margin-top:35px ;
+}
+h3{
+    font-size: 115%;
+}
+.border1{
+    border: 3px solid rgb(255, 255, 255) ;
+    margin: 60px; 
+    width: 720px;
+    padding: 7px;
+
+}
+ul :hover{
+
+    color: green;
+}
+li:hover{
+
+    color: orange;
+}
+
+
+
+    
+
+li{
+
+    color: orange;
+}
